@@ -50,7 +50,7 @@ The data comes from police reports of traffic accidents in the UK. The data cont
 
 ## SQL Exploration
 
-In the SQL query, 10 questions are answered to lead the data analysis giving us a better picture of what we are trying to find. The SQL code can be found [here](https://github.com/jidafan/SQL-Vehicle-Accidents)
+In the SQL query, 10 questions are answered to lead the data analysis giving us a better picture of what we are trying to find. The SQL code can be found [here](https://github.com/jidafan/SQL-Vehicle-Accidents).
 
 1. How many accidents have occurred in urban areas vs rural areas?
 
