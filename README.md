@@ -12,7 +12,7 @@ Every year there are a vast amount of car crashes that happen on the roadways. I
 
 ## Data Review
 
-The data comes from police reports of traffic accidents in the UK. The data contains information on the date of the crash, the road, weather conditions, and other essential information related to the crash.
+The data comes from police reports of traffic accidents in the UK. The data contains information on the date of the crash, the road, weather conditions, and other essential information related to the crash. 32 non-null variables describe the traffic accidents in the dataset.
 
 | Variable      | Description           | 
 | ------------- |:---------------------| 
@@ -48,3 +48,29 @@ The data comes from police reports of traffic accidents in the UK. The data cont
 | `LSOA_of_Accident_Location`  | Lower Layer Super Output Areas (LOSA) of accident location, a postal code for England and Wales        |
 | `Year`  | The year the accident took place                   |
 
+## SQL Exploration
+
+In the SQL query, 10 questions are answered to lead the data analysis giving us a better picture of what we are trying to find.
+
+1. How many accidents have occurred in urban areas vs rural areas?
+
+2. Which day of the week has the highest number of accidents?
+
+3. Does road type and speed limit affect the number of accidents?
+
+4. Is there a trend with speed limits and accidents?
+
+5. Are there any specific weather conditions that contribute to traffic accidents?
+
+6. Do light conditions heavily impact the frequency of accidents?
+
+7. Which year had the most traffic accidents?
+
+8. Which year had the most casualties from traffic accidents?
+
+9. Does road class correlate with the severity of the accident?
+
+10. Did police arrive more on certain days?
+
+
+## Conclusion
