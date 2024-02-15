@@ -74,3 +74,8 @@ In the SQL query, 10 questions are answered to lead the data analysis giving us 
 
 
 ## Conclusion
+
+### Next Steps
+
+* Perform analysis in Python and figure out if we can predict traffic accidents due to several factors
+* Combine the other files in the Kaggle link
